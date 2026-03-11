@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\developers-exam\\developers-exam-fullstack\\back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FAB4C7-62EC-4248-8163-041BBB3988A8}|src\\WebAPI\\WebAPI.csproj|c:\\projetos\\developers-exam\\developers-exam-fullstack\\back\\src\\webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FAB4C7-62EC-4248-8163-041BBB3988A8}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Projetos\\developers-exam\\developers-exam-fullstack\\back\\src\\WebAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Projetos\\developers-exam\\developers-exam-fullstack\\back\\src\\WebAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "src\\WebAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T23:15:01.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
